@@ -1,0 +1,34 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-image: url(sebiche.jfif); 
+}
+.form {
+	border: 4px solid orange;
+	width: 400px;
+	background: black;
+	padding: 20px;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 7px;
+	
+}
+.form h4 {
+	font-size: 28px;
+	margin-bottom: 20px;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+.item {
+	width: 100%;
+	background: white;
+	padding: 10px;
+	margin-bottom: 15px;
+	border: 2px solid #BC7C1A;
+}
+.form button {
+	background-color: #F1BF71;
+	font-size: 20px;
+}
